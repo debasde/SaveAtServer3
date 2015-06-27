@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SaveAtServer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="qualification_prompt">Choose One</string>
+    <string-array name="qualification_arrays">
+        <item>M-Tech</item>
+        <item>B-Tech</item>
+        <item>BCA</item>
+    </string-array>
+
+</resources>
